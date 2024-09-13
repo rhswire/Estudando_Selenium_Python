@@ -5,7 +5,7 @@ python -m venv mvenv
 ```
 #### Ativar o Ambiente Virtual pelo terminal, entrar na pasta venv e depois na pasta Scripts
 ```bash
-cd venv
+cd myvenv
 ls
 cd Scripts
 ls
